@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+My+name+is+Luigi+Genari+i'm+23+years+old+from+Brazil+Welcome!)](https://git.io/typing-svg)
+Olá, meu nome é Luigi Genari, tenho 23 anos. 
+Sou do Brazil, moro atualmente no estado de São Paulo. 
+Tenho formação em Técnico de Informática, Atualmente atuo na área como técnico, mas tenho conhecimento em lógica de programação e java/java script. 
+Estou em busca de novas oportunidades e sejam bem vindos ao meu perfil.
